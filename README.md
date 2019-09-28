@@ -1,1 +1,1 @@
-# Sentiment-Analysis-using-NN
+# Sentiment-Analysis-using-Neural Network
